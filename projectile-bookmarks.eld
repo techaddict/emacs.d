@@ -1,0 +1,1 @@
+("~/Projects/scala/akkaSrc/" "~/projects/scala/akkaSrc/")

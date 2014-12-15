@@ -1,0 +1,23 @@
+
+;; ----- smex-history -----
+(
+ comment-region
+ package-install
+ eval-buffer
+ package-menu-mark-upgrades
+ package-refresh-contents
+ package-list-packages
+ ensime
+)
+
+;; ----- smex-data -----
+(
+ (cd . 1)
+ (ensime . 1)
+ (package-install . 5)
+ (package-list-packages . 1)
+ (package-refresh-contents . 1)
+ (package-menu-mark-upgrades . 1)
+ (eval-buffer . 1)
+ (comment-region . 1)
+)
